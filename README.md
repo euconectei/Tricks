@@ -1,4 +1,4 @@
-# Site do Clã Tricks do BR18 (Ragnarok Online Mobile)
+# Clã Tricks do BR18 (Ragnarok Online Mobile)
 
 ## Sobre o clã
 
