@@ -1,12 +1,12 @@
 ---
-title: 
+title: Tricks
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Bem vindo à Tricks BR18
 ---
 
-# Sobre a Guilda
+## Sobre a Guilda
 
 - Somos ativos WoE
 - Estamos em Valkyrie 1
