@@ -1,12 +1,10 @@
 ---
-title: Bem vindo à Tricks
+title: 
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## A Tricks te deseja bom jogo!
+  ## Bem vindo à Tricks BR18
 ---
-
-# Guilda Tricks do BR18 (Ragnarok Online Mobile)
 
 ## Sobre a Guilda
 
@@ -35,4 +33,4 @@ feature_text: |
 - Usar [WhatsApp](https://whatsapp.com/)
 - Usar [Facebook](https://facebook.com/)
 
-Caso atenda a estes pré-requisitos e deseje ingressar na guilda preencha este formulário.
+Caso atenda a estes pré-requisitos e deseje ingressar na guilda preencha este [formulário](https://forms.gle/vrsmRcZbqVgDB3kPA).

@@ -20,6 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+lang: pt-BR
 url: ''
 baseurl: '/Tricks'
 title: 'Clã Tricks'
