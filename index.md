@@ -1,3 +1,11 @@
+---
+title: Bem vindo à Tricks
+layout: page
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Hello world
+---
+
 # Clã Tricks do BR18 (Ragnarok Online Mobile)
 
 ## Sobre o clã.
