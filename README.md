@@ -5,11 +5,12 @@
 - Somos ativos WoE
 - Estamos em Valkyrie 1
 - Máquinas:
-  - Incredible Vending Machine (lvl 6)
-  - Black Cat Cafe (lvl 4)
-  - Bizarre Cat Litter Box (lvl 7)
-  - Magic Sewing Machine (lvl 3)
+  - Incredible Vending Machine (lvl 7)
+  - Black Cat Cafe (lvl 7)
+  - Bizarre Cat Litter Box (lvl 10)
+  - Magic Sewing Machine (lvl 7)
   - Legendary Anvil (lvl 1)
+  - Headwear Workshop (lvl 1)
 
 ## Interações entre o clã
 
