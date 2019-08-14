@@ -6,7 +6,7 @@ feature_text: |
   ## Bem vindo à Tricks BR18
 ---
 
-## Sobre a Guilda
+# Sobre a Guilda
 
 - Somos ativos WoE
 - Estamos em Valkyrie 1
