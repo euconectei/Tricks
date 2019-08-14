@@ -20,8 +20,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://euconectei.github.io/Tricks/'
-baseurl: ''
+url: ''
+baseurl: '/Tricks/'
 title: 'Clã Tricks'
 description: 'Clã de Ragnarok Online Mobile - Ch BR18'
 permalink: pretty
