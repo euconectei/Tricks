@@ -3,12 +3,12 @@ title: Bem vindo à Tricks
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## A Tricks te deseja bom jogo!
 ---
 
-# Clã Tricks do BR18 (Ragnarok Online Mobile)
+# Guilda Tricks do BR18 (Ragnarok Online Mobile)
 
-## Sobre o clã.
+## Sobre a Guilda
 
 - Somos ativos WoE
 - Estamos em Valkyrie 1
@@ -20,7 +20,7 @@ feature_text: |
   - Legendary Anvil (lvl 1)
   - Headwear Workshop (lvl 1)
 
-## Interações entre o clã
+## Interações entre a guilda
 
 - Ruínas de Vallalha
 - Endless Tower até o 100
@@ -35,4 +35,4 @@ feature_text: |
 - Usar [WhatsApp](https://whatsapp.com/)
 - Usar [Facebook](https://facebook.com/)
 
-Caso atenda a estes pré-requisitos e deseje ingressar no clã preencha este formulário.
+Caso atenda a estes pré-requisitos e deseje ingressar na guilda preencha este formulário.
