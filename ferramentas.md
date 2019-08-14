@@ -2,8 +2,6 @@
 title: Ferramentas Úteis
 ---
 
-# Ferramentas úteis
-
 ## Runas
 
 - http://romcodex.com/runes/
