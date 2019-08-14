@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://euconectei.github.io/Tricks/'
-baseurl: 'https://euconectei.github.io/Tricks/'
+baseurl: 'Tricks/'
 title: 'Clã Tricks'
 description: 'Clã de Ragnarok Online Mobile - Ch BR18'
 permalink: pretty
