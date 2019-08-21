@@ -2,23 +2,18 @@
 title: Eventos
 ---
 
-- Segunda-Feira
-  **Folga**
+## Semanal
 
-- Terça-Feira
-  23h - Evento Kafra
+| Dia | Horário | Evento |
+| :--  | :--: | :-- |
+| Segunda-Feira | --- | **Folga** |
+| Terça-Feira  | 23h | Evento Kafra |
+| Quarta-Feira | 23h | Evento Poring |
+| Quinta-Feira | 00h | WoE |
+| Sexta-Feira | 23h | Evento MVP |
+| Sábado | 23h | Invasão dos gatos |
+| Domingo | 00h | WoE e WoC |
 
-- Quarta-Feria
-  23h - Evento Poring
+## Diário
 
-- Quinta-Feira
-  00h - WoE
-
-- Sexta-Feira
-  22h - Evento MVP
-
-- Sábado
-  23h - Invasão dos gatos
-
-- Domingo
-  00h - WoE e WoC
+23:30 às 00h - Bathory :star: e Baphomet Jr :star:
