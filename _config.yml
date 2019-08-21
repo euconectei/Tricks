@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Ferramentas
   url: /ferramentas/
+- title: Eventos
+  url: /eventos/
 
 # Footer nav
 navigation_footer:
