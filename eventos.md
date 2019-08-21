@@ -2,30 +2,23 @@
 title: Eventos
 ---
 
-## Segunda-Feira
+- Segunda-Feira
+  **Folga**
 
-**Folga**
+- Terça-Feira
+  23h - Evento Kafra
 
-## Terça-Feira
+- Quarta-Feria
+  23h - Evento Poring
 
-23h - Evento Kafra
+- Quinta-Feira
+  00h - WoE
 
-## Quarta-Feria
+- Sexta-Feira
+  22h - Evento MVP
 
-23h - Evento Poring
+- Sábado
+  23h - Invasão dos gatos
 
-## Quinta-Feira
-
-00h - WoE
-
-## Sexta-Feira
-
-23h - Evento MVP
-
-## Sábado
-
-**Folga**
-
-## Domingo
-
-00h - WoE e WoC
+- Domingo
+  00h - WoE e WoC
