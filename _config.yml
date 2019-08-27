@@ -40,6 +40,8 @@ navigation_header:
   url: /ferramentas/
 - title: Eventos
   url: /eventos/
+- title: Sheet Cheats
+  url: /sheet-cheats/
 
 # Footer nav
 navigation_footer:
