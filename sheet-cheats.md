@@ -9,3 +9,7 @@ title: Sheet Cheats
 ## Bônus de Atk e MAtk do Livro
 
 [Planilha Google Docs](https://docs.google.com/spreadsheets/d/1qjPiDr23gflMGjh0FPk8SJ2T4WSXCXGnfLFepvGcCm8/edit#gid=0)
+
+## Tabela Elemental
+
+![Tabela elemental](static/images/elements-attribute-property-weakness-table-ragnarok-mobile-eternal-love.jpg)
