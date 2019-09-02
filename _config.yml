@@ -26,7 +26,7 @@ baseurl: '/Tricks'
 title: 'Clã Tricks'
 description: 'Clã de Ragnarok Online Mobile - Ch BR18'
 permalink: pretty
-logo: "/static/images/logo-tricks.png"
+logo: "/static/images/tricks-logo.png"
 
 # Pagination
 paginate: 5
