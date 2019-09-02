@@ -1,7 +1,7 @@
 ---
 title: Tricks
 layout: page
-feature_image: "/assets/images/tricks-destaque-home.png"
+feature_image: "/static/images/tricks-destaque-home.png"
 feature_text: |
   ## Bem vindo à Tricks BR18
 ---
