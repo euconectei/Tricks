@@ -13,3 +13,24 @@ title: Sheet Cheats
 ## Tabela Elemental
 
 ![Tabela elemental](static/images/elements-attribute-property-weakness-table-ragnarok-mobile-eternal-love.jpg)
+
+## Penalidade por nível
+
+Quando o nível do montro é superior:
+
+| Diferença de Nível | Exp e Drop Rate |
+| :--: | :--: |
+| 0–10 | 100% |
+| 11–20 | 80% |
+| 21+ | 60% |
+
+Quando o nível do montro é inferior:
+
+| Diferença de Nível | Exp e Drop Rate |
+| :--: | :--: |
+| 0–10 | 100% |
+| 11–15 | 80% |
+| 16-20 | 60% |
+| 21-25 | 40% |
+| 26-30 | 20% |
+| 31+ | 10% |
