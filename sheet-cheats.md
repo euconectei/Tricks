@@ -34,3 +34,7 @@ Quando o nível do monstro é inferior:
 | 21-25 | 40% |
 | 26-30 | 20% |
 | 31+ | 10% |
+
+## Lista de todos os equipamentos para craftar e suas localizações
+
+[https://gamingph.com/2018/11/list-of-all-equipment-craft-location-in-ragnarok-m-eternal-love/](https://gamingph.com/2018/11/list-of-all-equipment-craft-location-in-ragnarok-m-eternal-love/)
