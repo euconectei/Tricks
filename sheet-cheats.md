@@ -16,16 +16,14 @@ title: Sheet Cheats
 
 ## Penalidade por nível
 
-Quando o nível do montro é superior:
-
+Quando o nível do monstro é superior:
 | Diferença de Nível | Exp e Drop Rate |
 | :--: | :--: |
 | 0–10 | 100% |
 | 11–20 | 80% |
 | 21+ | 60% |
 
-Quando o nível do montro é inferior:
-
+Quando o nível do monstro é inferior:
 | Diferença de Nível | Exp e Drop Rate |
 | :--: | :--: |
 | 0–10 | 100% |
