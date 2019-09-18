@@ -28,7 +28,7 @@ feature_text: |
 ## Recrutamento
 
 - Ser ativo WoE
-- Somente 90+
+- Somente 95+
 - Usar [Discord](https://discordapp.com/)
 - Usar [WhatsApp](https://whatsapp.com/)
 - Usar [Facebook](https://facebook.com/)
