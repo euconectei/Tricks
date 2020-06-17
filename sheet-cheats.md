@@ -2,6 +2,8 @@
 title: Sheet Cheats
 ---
 
+{:toc}
+
 ## Bônus de Comida
 
 [Arquivo PDF](static/files/tabela_bonus_food.pdf)
@@ -19,21 +21,21 @@ title: Sheet Cheats
 Quando o nível do monstro é superior:
 
 | Diferença de Nível | Exp e Drop Rate |
-| :--: | :--: |
-| 0–10 | 100% |
-| 11–20 | 80% |
-| 21+ | 60% |
+| :----------------: | :-------------: |
+|        0–10        |      100%       |
+|       11–20        |       80%       |
+|        21+         |       60%       |
 
 Quando o nível do monstro é inferior:
 
 | Diferença de Nível | Exp e Drop Rate |
-| :--: | :--: |
-| 0–10 | 100% |
-| 11–15 | 80% |
-| 16-20 | 60% |
-| 21-25 | 40% |
-| 26-30 | 20% |
-| 31+ | 10% |
+| :----------------: | :-------------: |
+|        0–10        |      100%       |
+|       11–15        |       80%       |
+|       16-20        |       60%       |
+|       21-25        |       40%       |
+|       26-30        |       20%       |
+|        31+         |       10%       |
 
 ## Lista de todos os equipamentos para craftar e suas localizações
 

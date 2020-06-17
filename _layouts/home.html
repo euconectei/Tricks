@@ -1,0 +1,26 @@
+---
+layout: base
+---
+<section class="section section-bg-red">
+  <div class="container text-center">
+    <img src="assets/images/logo-tricks-grande.png" alt="" width="400">
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+
+{% include tricks/godlys.html %}
+
+{% include tricks/maquinas.html %}
+
+<section class="section section-recruit section-bg-red">
+  <div class="container">
+    {% capture recrutamento %}
+    {% include recrutamento/info.md %}
+    {% endcapture %}
+    {{ recrutamento | markdownify }}
+  </div>
+</section>

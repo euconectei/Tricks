@@ -1,0 +1,14 @@
+<section class="section section-blog-list section-bg-red">
+  <div class="container">
+    <h2>Posts</h2>
+    <div class="posts row">
+
+      {% for post in site.posts %}
+      {% assign post=post %}
+      {% include posts/post-excerpt.html %}
+
+      {% endfor %}
+
+    </div>
+  </div>
+</section>

@@ -1,53 +1,15 @@
 ---
 title: Tricks
-layout: page
+layout: home
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Bem vindo à Tricks BR18
+  ## Bem vindo à Tricks
 ---
-
-## Posts
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
-## Sobre a Guilda
-
-- Somos ativos WoE
-- Estamos em Valkyrie 1
-- Máquinas:
-  - Incredible Vending Machine (lvl 7)
-  - Black Cat Cafe (lvl 7)
-  - Bizarre Cat Litter Box (lvl 10)
-  - Magic Sewing Machine (lvl 7)
-  - Legendary Anvil (lvl 1)
-  - Headwear Workshop (lvl 1)
 
 ## Interações entre a guilda
 
-- Ruínas de Vallalha
-- Endless Tower até o 100
+- Thanatos Tower
+- Ruínas de Valhalla
+- Endless Tower até o 100/101
 - Quadro de Missões
 - Rifts
-
-## Recrutamento
-
-- Ser ativo WoE
-- Somente 95+
-- Usar [Discord](https://discordapp.com/)
-- Usar [WhatsApp](https://whatsapp.com/)
-- Usar [Facebook](https://facebook.com/)
-
-Caso atenda a estes pré-requisitos e deseje ingressar na guilda preencha este [formulário](https://forms.gle/vrsmRcZbqVgDB3kPA).
