@@ -25,6 +25,7 @@ Quando o nível do monstro é superior:
 |        0–10        |      100%       |
 |       11–20        |       80%       |
 |        21+         |       60%       |
+{: .table.table-striped.table-bordered }
 
 Quando o nível do monstro é inferior:
 
@@ -36,6 +37,7 @@ Quando o nível do monstro é inferior:
 |       21-25        |       40%       |
 |       26-30        |       20%       |
 |        31+         |       10%       |
+{: .table.table-striped.table-bordered }
 
 ## Lista de todos os equipamentos para craftar e suas localizações
 
