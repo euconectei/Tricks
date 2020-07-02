@@ -9,8 +9,7 @@
 }
 
 body {
-  background: @gray-light url(../images/page/background.png) no-repeat;
-  background-size: contain;
+  background: @gray-light;
   color: @gray-dark;
   font-family: "Segoe UI",
     Helvetica,
@@ -21,7 +20,9 @@ body {
 .page {
 
   &-header {
-    background: transparent linear-gradient(180deg, #000000 0%, #54545400 100%) 0% 0% no-repeat padding-box;
+    background: linear-gradient(180deg, #000000 0%, #54545400 100%) 0% 0% no-repeat padding-box,
+      url(../images/page/background.png) no-repeat center top;
+    background-size: cover;
     height: 100vh;
 
     &:after {
